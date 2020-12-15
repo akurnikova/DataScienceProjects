@@ -1,0 +1,3 @@
+This was a project to scrape and analyze text from reddit mom blog forums.
+Goals were to see if I coupd predict some keywords or common themes associated to depression. 
+Initial concept was to see if there is an association of depression-related terms with weaning (as shown in literature).
